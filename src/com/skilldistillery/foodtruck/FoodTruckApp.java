@@ -183,24 +183,6 @@ public class FoodTruckApp {
 		return highestRated;
 	}
 	
-//	public FoodTruck[] getFoodTrucks() {
-//		
-//		LinkedList<FoodTruck> trucks = new LinkedList<>();
-//		
-//		for(int i = 0; i < foodTrucks.length ; i++) {
-//			if( foodTrucks[i] == null ) break;
-//			trucks.add(foodTrucks[i]);
-//		}
-//		
-//		FoodTruck[] trucksToReturn = new FoodTruck[trucks.size()];
-//		
-//		for( int i = 0 ; i < trucksToReturn.length ; i++ ) {
-//			trucksToReturn[i] = trucks.get(i);
-//		}
-//		
-//		return trucksToReturn;
-//	}
-	
 	/* I wasn't sure how to handle these "double possessive" grammatical cases.  
 	 *  https://abovethelaw.com/career-files/lawprose-lesson-113-how-do-you-form-a-possessive-with-a-name-that-itself-ends-with-a-possessive-s-as-with-mcdonalds/
 	 *   
